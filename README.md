@@ -1,4 +1,4 @@
-# Yandex_Practicum_Data_Science
+# Data_Science
 
 В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс Практикума.
 
